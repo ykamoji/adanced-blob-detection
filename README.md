@@ -11,4 +11,6 @@
 ![Edge detection 1](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/edge_removal_1.png?raw=true)
 ![Edge detection 2](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/edge_removal_2.png?raw=true)
 
+<hr/>
 
+![Downsampling detection 1](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/downsampling_1.png?raw=true)
