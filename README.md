@@ -14,3 +14,4 @@
 <hr/>
 
 ![Downsampling detection 1](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/downsampling_1.png?raw=true)
+![Downsampling detection 2](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/downsampling_2.png?raw=true)
