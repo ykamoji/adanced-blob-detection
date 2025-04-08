@@ -4,4 +4,5 @@
 <hr/>
 
 ![DOG 1](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/dog.png?raw=true)
+![DOG Analysis](https://github.com/ykamoji/adanced-blob-detection/blob/main/img_refs/dog_analysis.png?raw=true)
 
